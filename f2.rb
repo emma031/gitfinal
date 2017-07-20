@@ -1,5 +1,6 @@
 2
-function a(master){}
+
+function a(master, exp){}
 
 function b(){}
 
